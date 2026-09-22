@@ -580,7 +580,7 @@ The Power BI dashboard is designed to provide an executive-level view of supply 
 
 ### Dashboard Preview
 
-![Supply Chain Dashboard](images/dashboard.png)
+![Supply Chain Dashboard](image/dashboard.png)
 
 ---
 
