@@ -514,10 +514,20 @@ The model is evaluated using:
 * Classification Report
 
 ```python
-accuracy_score()-
-precision_score()
-recall_score()
-classification_report()
+Accuracy: 0.74
+Precision: 0.78
+Recall: 0.75
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.68      0.72      0.70     14758
+           1       0.78      0.75      0.77     19795
+
+    accuracy                           0.74     34553
+   macro avg       0.73      0.74      0.73     34553
+weighted avg       0.74      0.74      0.74     34553
+
 ```
 
 ### Feature Importance
@@ -667,9 +677,9 @@ Based on the analytical framework, the following areas can be considered for sup
 **Swastik Kumar**
 Data Analyst | MIS Analyst | Business Intelligence Enthusiast
 
-📧 Email: [Your Email]
+📧 Email: [kumarswastik981@gmail.com]
 
-🔗 [LinkedIn](Your-LinkedIn-URL)
+🔗 [LinkedIn](https://www.linkedin.com/in/swastik-kumar-01sep)
 
 🔗 [GitHub](https://github.com/SwastikAnalytics)
 
