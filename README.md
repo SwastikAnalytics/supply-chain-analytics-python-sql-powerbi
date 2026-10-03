@@ -699,5 +699,3 @@ Data Analyst | MIS Analyst | Business Intelligence Enthusiast
  
 
 
-
-GIVE ME IN THIS FORMATE README FILE ACCORDING THE DASHBOARD
